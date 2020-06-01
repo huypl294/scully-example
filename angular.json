@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "scully-example"
+    }
+  },
+  "defaultProject": "scully-example",
+  "cli": {
+    "analytics": "15ada5bb-604d-4fdf-8403-774d62ef977f"
+  }
 }
